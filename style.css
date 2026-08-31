@@ -1,0 +1,15 @@
+.profile {
+    background-color: teal;
+    color: yellow;
+    padding: 25px;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.skill {
+    background-color: rgb(158, 55, 81);
+    color: yellow;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
